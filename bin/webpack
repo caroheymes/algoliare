@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-RAILS_ENV=development bin/webpack
+
 RAILS_ENV   = ENV['RAILS_ENV'] || 'development'
 WEBPACK_ENV = ENV['WEBPACK_ENV'] || RAILS_ENV
 

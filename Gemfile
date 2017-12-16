@@ -12,6 +12,7 @@ gem 'jquery', '~> 0.0.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'turbolinks'
 
+
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
